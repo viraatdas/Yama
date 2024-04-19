@@ -5,7 +5,7 @@ Interface for religions
   <img src="assets/Yama.jpg" alt="Yama">
 </p>
 
-***Yama** is the god of death in Hinduism, known as the judge of the departed. He embodies righteousness and moral order, enforcing the cosmic laws that govern life and death.*
+***Yama** is the god of death in Hinduism, known as the judge of the departed. He is the righteosness and moral order guy, enforcing the cosmic laws that govern life and death.*
 
 ## Thoughts
 
@@ -15,3 +15,19 @@ Generally speaking, religion historically seems to have a step ladder, where eac
 
 This is quite easy to understand for Abrahamic religions
 *write down thoughts*
+
+
+## Religions
+
+Text associated with religion (for the purposes of this project I am assuming the text comprises the religion)
+
+1. Hinduism
+   1. Bhagavad Gita 
+   2. Upanishads
+   3. Puranas
+   4. Sutras
+   5. Vedas
+2. Islam
+   1. Quran
+   2. Hadith
+   

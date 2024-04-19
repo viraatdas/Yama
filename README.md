@@ -5,7 +5,7 @@ Interface for religions
   <img src="assets/Yama.jpg" alt="Yama">
 </p>
 
-**Yama** is the god of death in Hinduism, known as the judge of the departed. He embodies righteousness and moral order, enforcing the cosmic laws that govern life and death.
+***Yama** is the god of death in Hinduism, known as the judge of the departed. He embodies righteousness and moral order, enforcing the cosmic laws that govern life and death.*
 
 ## Thoughts
 

@@ -1,0 +1,2 @@
+# Yama
+Interface for religions

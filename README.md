@@ -2,7 +2,7 @@
 Interface for religions
 
 <p align="center">
-  <img src="assets/Yama.jpg" alt="Yama">
+  <img src="assets/Yama.jpg" alt="Yama" style="width:50%; height:auto;">
 </p>
 
 ***Yama** is the god of death in Hinduism, known as the judge of the departed. He is the righteosness and moral order guy, enforcing the cosmic laws that govern life and death.*
@@ -30,4 +30,3 @@ Text associated with religion (for the purposes of this project I am assuming th
 2. Islam
    1. Quran
    2. Hadith
-   

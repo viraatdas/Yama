@@ -7,7 +7,10 @@ Interface for religions
 
 ***Yama** is the god of death in Hinduism, known as the judge of the departed. He is the righteosness and moral order guy, enforcing the cosmic laws that govern life and death.*
 
-## Thoughts
+## How to run
+*tbd*
+
+## Thoughts versions
 
 I am interested in building up a framework that analyzes as many religions as possible and picks up the common themes and sees if it's possible to build up an interface. 
 
@@ -16,6 +19,8 @@ Generally speaking, religion historically seems to have a step ladder, where eac
 This is quite easy to understand for Abrahamic religions
 *write down thoughts*
 
+### v1
+For v1, lets start out by throwing the huge corpus of texts and trying to determine commonalities among them
 
 ## Religions
 
@@ -32,3 +37,7 @@ Text associated with religion (for the purposes of this project I am assuming th
 2. Islam
    1. Quran (Translated by Talal Itani)
    2. Hadith (by Sahih Al-Bukhari Book 1 - 93)
+
+
+
+

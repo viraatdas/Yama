@@ -19,14 +19,16 @@ This is quite easy to understand for Abrahamic religions
 
 ## Religions
 
-Text associated with religion (for the purposes of this project I am assuming the text comprises the religion)
+Text associated with religion (for the purposes of this project I am assuming the text comprises the religion - will expand and add more):
 
 1. Hinduism
-   1. Bhagavad Gita 
-   2. Upanishads
-   3. Puranas
-   4. Sutras
-   5. Vedas
+   1. Bhagavad Gita (by Sri Swami Sivananda)
+   2. Upanishads (by Swami Paramananda)
+   3. Vedas 
+      1. Rig Veda – RT Griffith
+      2. Yajur Veda – AB Keith
+      3. Hymns of Sama Veda – RT Griffith
+      4. Hymns of Atharva Veda – M Bloomfiel
 2. Islam
-   1. Quran
-   2. Hadith
+   1. Quran (Translated by Talal Itani)
+   2. Hadith (by Sahih Al-Bukhari Book 1 - 93)
